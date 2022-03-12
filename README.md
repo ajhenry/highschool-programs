@@ -13,7 +13,7 @@ This doc will include the following information:
 - Internships & Programs
 - Advice for incoming freshman
 
-# Internships
+# Free Internships
 
 These internships are intended for students that are currently in their senior year of highschool
 
@@ -54,3 +54,34 @@ Facebook summer academy aims to inspire and motivate current high school student
   - Must be in the bay area?
 - Deadline to apply: **CLOSED**
 - Program dates: July 11 - August 5, 2022
+
+## INTERalliance Internships
+
+INTERalliance connects students with Cincinnati-based companies that have roles open to prospective students. "The INTERalliance INTERnship program is your opportunity to work for some of the leading companies in the Greater Cincinnati IT industry. This program provides you with real-world work experience while still in high school, laying the foundation for countless opportunities throughout college and beyond."
+
+- [Link to program description](https://metasummeracademy.com/eligibility-3/about-3/)
+- [Link to apply](https://app.smarterselect.com/programs/78142)
+- Qualifications:
+  - Must be at least a junior
+  - Must be in the Cincinnati area?
+  - Must have a resume approved by INTERalliance
+  - Must have GitHub training
+  - A linked in Profile
+  - Be connected with [Heather Ackels](https://www.linkedin.com/in/heather-ackels-69525aa/) on LinkedIn
+- Deadline to apply: March 19, 2022
+- Program dates: June 6 - August 13, 2022
+
+# Paid Internships
+
+This section of internships **cost** money to attend, they are not paying students
+
+## MAXX Potential
+
+An internship geared toward teaching students about software development. This _may_ be a good option if your school does not provide any compute science classes and have no other alternatives. "Think of an experienceship as a place you get to work with experienced IT professionals and gain the experience of a traditional internship all while in an inclusive and risk-free environment"
+
+- [Link to program description](https://maxxpotential.com/students/)
+- Cost: $399
+- Qualifications:
+  - Must be at least 14
+- Deadline to apply: None, apply by the date of the session
+- Program dates: June 20 - July 1, 2022, July 11 - July 22, 2022, June 25 – August 5, 2022
