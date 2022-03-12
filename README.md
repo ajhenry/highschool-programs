@@ -1,4 +1,4 @@
-<h1 align='center'>Computer Science High School Programs</h1>
+<h1 align='center'>High School Programs</h1>
 
 <p align="center">
 A list of programs & resources aimed towards high school students who plan on studying computer science in 2022
