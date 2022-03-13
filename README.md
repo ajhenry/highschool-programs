@@ -63,12 +63,57 @@ Facebook summer academy aims to inspire and motivate current high school student
 - Deadline to apply: **CLOSED**
 - Program dates: July 11 - August 5, 2022
 
+## UCSC's Student Internship Program (SIP)
+
+"The Science Internship Program provides motivated, advanced students with a unique opportunity to work and learn at a premier research institution. SIP is a summer-long (10 week) research internship program for high school students in STEM fields. UCSC faculty, graduate students, and post-doctoral researchers provide one-on-one mentoring of these high-school interns."
+
+- [Link to program description](https://sip.ucsc.edu/about/)
+- [Link to apply](https://www.regpack.com/reg/templates/build/?g_id=100908135)
+- Qualifications:
+  - Be a rising Senior (summer between junior and senior year)
+  - At least 16 years old
+  - Housing is not provided so that must be figured out by the student
+- Deadline to apply: March 31, 2022 at 5 PM PDT
+- Program dates: June 21 – August 12, 2022
+
 ## The Institute for Advanced Learning (IAL)
 
 The institute for advanced learning is based at Texas Tech University and offers 12 juniors and seniors a paid hands-on research experience. "The goal is to provide meaningful on-the-job training and real-world leadership development experiences in the areas of Science, Technology, Engineering, and Mathematics (STEM), data analysis and market/scientific research"
 
 - [Link to program description](https://www.ialr.org/internships/)
-- [Link to apply]( https://www.surveymonkey.com/r/IALRinternapp2022)
+- [Link to apply](https://www.surveymonkey.com/r/IALRinternapp2022)
+- Qualifications:
+  - High School graduate with plans to attend college in fall 2022
+  - Transcripts
+  - Resume
+  - Financial Need Statement
+- Deadline to apply: March 18, 2022 at 4:00pm (EST)
+- Program dates: June 6 - August 12, 2022
+
+## NASA Internships
+
+NASA has so many internship opportunities that there are almost too many to list here. Take a look at their [full list of internship opportunities](https://nasacentral.force.com/s/explore-opportunities/internships)
+
+Some notable Roles:
+
+- [Apply AI & Machine Learning Techniques for Airspace Operations](https://nasacentral.force.com/s/course-offering/a0Bt0000004lRkuEAE/virtual-apply-ai-machine-learning-techniques-for-airspace-operations)
+- [Microgravity Web Development Internship - Virtual](https://nasacentral.force.com/s/course-offering/a0Bt0000004lRjBEAU/microgravity-web-development-internship-virtual)
+- [Machine Learning for Cloud and Aerosol Identification](https://nasacentral.force.com/s/course-offering/a0Bt0000004lQPnEAM/machine-learning-for-cloud-and-aerosol-identification)
+- [Knowledge Management](https://nasacentral.force.com/s/course-offering/a0Bt0000004lPu3EAE/knowledge-management)
+- [Science Communication Internship](https://nasacentral.force.com/s/course-offering/a0Bt0000004lPomEAE/science-communication-internship)
+- [Laser Detection and Ranging (Lidar) from Airborne and Space Borne Platforms](https://nasacentral.force.com/s/course-offering/a0Bt0000004lPKVEA2/laser-detection-and-ranging-lidar-from-airborne-and-space-borne-platforms)
+- [IT Services: Datacenter and Application Development Tasks](https://nasacentral.force.com/s/course-offering/a0Bt0000004lPHeEAM/it-services-datacenter-and-application-development-tasks)
+- [SCaN Navigation Visualizations & NASA App Development Challenge](https://nasacentral.force.com/s/course-offering/a0Bt0000004lOMMEA2/scan-navigation-visualizations-nasa-app-development-challenge)
+- [Astrophysics Projects Research](https://nasacentral.force.com/s/course-offering/a0Bt0000004lO28EAE/astrophysics-projects-research)
+- [Global Health Burden by Dust and Pollution Aerosol](https://nasacentral.force.com/s/course-offering/a0Bt0000004lNe8EAE/global-health-burden-by-dust-and-pollution-aerosol)
+- [Antarctic Study with Satellite Observations](https://nasacentral.force.com/s/course-offering/a0Bt0000004lNPaEAM/antarctic-study-with-satellite-observations)
+- [CRESST II An Online Portal to Help Citizen Scientists Find Exoplanets](https://nasacentral.force.com/s/course-offering/a0Bt0000004lMWtEAM/cresst-ii-an-online-portal-to-help-citizen-scientists-find-exoplanets)
+- ...hundreds more
+
+</br>
+
+- [Link to program description](https://nasacentral.force.com/s/explore-opportunities/internships)
+- ~~Link to apply~~ (Specific to each job and there are hundreds)
 - Qualifications:
   - High School graduate with plans to attend college in fall 2022
   - Transcripts
@@ -115,6 +160,20 @@ INTERalliance connects students with Cincinnati-based companies that have roles 
   - Be connected with [Heather Ackels](https://www.linkedin.com/in/heather-ackels-69525aa/) on LinkedIn
 - Deadline to apply: March 19, 2022
 - Program dates: June 6 - August 13, 2022
+
+## Pacific Northwest National Laboratory - High School SRAP
+
+PNNL is a lab that provides hands-on STEM training to traditionally underrepresented groups. "Pacific Northwest National Laboratory (PNNL) is seeking ambitious, high caliber sophomore, junior or senior high school students for intern assignments within the Student Research Apprenticeship Program (SRAP). This summer internship is a research-based experience for students who are sophomore, juniors or seniors and/or students traditionally underrepresented in science and engineering."
+
+- [Link to program description](https://careers.pnnl.gov/jobs/3131?lang=en-us&iis=Job+Board&iisn=Direct+Employers)
+- [Link to apply](https://careers.pnnl.gov/jobs/3131?lang=en-us&iis=Job+Board&iisn=Direct+Employers)
+- Qualifications:
+  - Current 10th, 11th, or 12th grade student
+  - Resume, cover letter, and transcripts
+  - GPA of 3.0+
+  - 16 years of age
+- Deadline to apply: **Not Listed**
+- Program dates: Summer 2022
 
 # Paid Internships
 
@@ -163,8 +222,7 @@ There are **TWO** course offered by the Girls Who Code program
 - Deadline to apply: March 18, 2022
 - Program dates: Summer 2022
 
-
-**The Self-Paced Program** is a 6-week flexible computer science course for current eligible 9th, 10th, 11th, and 12th grade US students (including SIP alumni and graduating seniors) and international students ages 14-18 who prefer not to adhere to a set schedule. Self-Paced Program participants can choose to earn beginner-level badges in HTML, CSS, and JavaScript for web development or an intermediate-level badge in Python for cybersecurity. 
+**The Self-Paced Program** is a 6-week flexible computer science course for current eligible 9th, 10th, 11th, and 12th grade US students (including SIP alumni and graduating seniors) and international students ages 14-18 who prefer not to adhere to a set schedule. Self-Paced Program participants can choose to earn beginner-level badges in HTML, CSS, and JavaScript for web development or an intermediate-level badge in Python for cybersecurity.
 
 - [Link to course description](https://girlswhocodesm.smapply.io/)
 - [Link to apply](https://girlswhocodesm.smapply.io/)
